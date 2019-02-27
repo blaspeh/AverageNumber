@@ -1,0 +1,7 @@
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\bin\Debug\AverageNumber.exe.config
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\bin\Debug\AverageNumber.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\bin\Debug\AverageNumber.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\obj\Debug\AverageNumber.csprojAssemblyReference.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\obj\Debug\AverageNumber.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\obj\Debug\AverageNumber.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\AverageNumber\obj\Debug\AverageNumber.pdb
